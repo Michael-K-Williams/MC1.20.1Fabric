@@ -4,7 +4,7 @@ maxPlayers: 5
 loginMessage: ...Waking server up, come back in a minute...
 serverOnlineMode: true
 startMinecraft: true
-minecraftCommand: java -jar fabric-server-launch.jar nogui
+minecraftCommand: java -jar -Xms5g -Xmx14g -Dfml.readTimeout=260 fabric-server-launch.jar nogui
 restartDelay: 3000
 version: false
 useWhitelistFile: true

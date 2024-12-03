@@ -193,6 +193,23 @@
       "origins-classes:sneaky": true,
       "origins-classes:stealth": true,
       "origins-classes:stealth_descriptor": true
+    },
+    "thorigins:fox": {
+      "enabled": true,
+      "thorigins:fox/thdash": true,
+      "thorigins:fox/thhunt": true,
+      "thorigins:fox/thstorage": true,
+      "thorigins:fox/thfoxify": true,
+      "thorigins:fox/thswift": true,
+      "thorigins:fox/thfoxiality": true,
+      "thorigins:fox/thfluffy": true,
+      "thorigins:fox/thsmol": true,
+      "thorigins:fox/thfood": true,
+      "thorigins:fox/thhunger": true,
+      "thorigins:fox/thshy": true,
+      "thorigins:fox/thweak": true,
+      "thorigins:fox/thsound": true,
+      "thorigins:fox/loadin": true
     }
   }
 }
