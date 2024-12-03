@@ -1,0 +1,116 @@
+2024-12-02 20:51:02 info: ................................ 
+2024-12-02 20:51:02 info: ... A new story begin v1.9.1 ... 
+2024-12-02 20:51:02 info: ................................ 
+2024-12-02 20:51:02 error: Failed to load setting, using default. ENOENT: no such file or directory, open 'sleepingSettings.yml' 
+2024-12-02 20:51:02 info: Backing up your old config to : sleepingSettings.yml.2024-12-02T205102.302Z.bak 
+2024-12-02 20:51:02 error: Backup setting ENOENT: no such file or directory, open 'sleepingSettings.yml' 
+2024-12-02 20:51:02 info: Saving default settings to sleepingSettings.yml 
+2024-12-02 20:51:02 info: Retrieved settings:{"serverName":"SleepingServer, waiting for his prince...","serverPort":25565,"maxPlayers":20,"loginMessage":"...Waking server up, come back in a minute...","serverOnlineMode":true,"startMinecraft":true,"minecraftCommand":"java -jar paper.jar nogui","restartDelay":5000,"version":false,"useWhitelistFile":false,"useBlacklistFiles":false,"useNativeFiles":false} 
+2024-12-02 20:51:02 info: Retrieving whitelist entries from /home/superuser/minecraft/KatsVanillaPlus/whitelist.json 
+2024-12-02 20:51:02 info: Retrieved whitelist entries:[{"uuid":"b01d9165-974a-4296-8c08-1c8015e24150","name":"Mx_Kyoshi"}] 
+2024-12-02 20:51:02 info: Retrieving banned ips from /home/superuser/minecraft/KatsVanillaPlus/banned-ips.json 
+2024-12-02 20:51:02 info: Retrieved banned ips:[] 
+2024-12-02 20:51:02 info: Retrieving banned players from /home/superuser/minecraft/KatsVanillaPlus/banned-players.json 
+2024-12-02 20:51:02 info: Retrieved banned players:[] 
+2024-12-02 20:51:02 info: [Main] Waiting for 'quit' in CLI. 
+2024-12-02 20:51:02 info: [McJava] Waiting for a Prince to come. [25565] 
+2024-12-02 20:51:02 info: [McJava] Ready for battle 
+2024-12-02 20:51:07 info: [Main] SIGINT signal received. 
+2024-12-02 20:52:37 info: ................................ 
+2024-12-02 20:52:37 info: ... A new story begin v1.9.1 ... 
+2024-12-02 20:52:37 info: ................................ 
+2024-12-02 20:52:37 info: Loaded server.properties: {"_encoding":"utf-8","_properties":{"allow-flight":"true","allow-nether":"true","broadcast-console-to-ops":"true","broadcast-rcon-to-ops":"true","difficulty":"normal","enable-command-block":"false","enable-jmx-monitoring":"false","enable-query":"true","enable-rcon":"true","enable-status":"true","enforce-secure-profile":"true","enforce-whitelist":"true","entity-broadcast-range-percentage":"100","force-gamemode":"false","function-permission-level":"2","gamemode":"survival","generate-structures":"true","generator-settings":"{}","hardcore":"false","hide-online-players":"false","initial-disabled-packs":"","initial-enabled-packs":"vanilla","level-name":"world","level-seed":"","level-type":"minecraft\\:normal","max-chained-neighbor-updates":"1000000","max-players":"5","max-tick-time":"600000","max-world-size":"29999984","motd":"\"Katrina's Vanilla+\"","network-compression-threshold":"256","online-mode":"true","op-permission-level":"4","player-idle-timeout":"0","prevent-proxy-connections":"false","pvp":"true","query.port":"25565","rate-limit":"0","rcon.password":"01189998819991197253","rcon.port":"25575","require-resource-pack":"false","resource-pack":"","resource-pack-prompt":"","resource-pack-sha1":"","server-ip":"","server-port":"25565","simulation-distance":"12","spawn-animals":"true","spawn-monsters":"true","spawn-npcs":"true","spawn-protection":"0","sync-chunk-writes":"true","text-filtering-config":"","use-native-transport":"true","view-distance":"12","white-list":"true"},"_propertiesExpanded":{"allow-flight":"true","allow-nether":"true","broadcast-console-to-ops":"true","broadcast-rcon-to-ops":"true","difficulty":"normal","enable-command-block":"false","enable-jmx-monitoring":"false","enable-query":"true","enable-rcon":"true","enable-status":"true","enforce-secure-profile":"true","enforce-whitelist":"true","entity-broadcast-range-percentage":"100","force-gamemode":"false","function-permission-level":"2","gamemode":"survival","generate-structures":"true","generator-settings":"{}","hardcore":"false","hide-online-players":"false","initial-disabled-packs":"","initial-enabled-packs":"vanilla","level-name":"world","level-seed":"","level-type":"minecraft\\:normal","max-chained-neighbor-updates":"1000000","max-players":"5","max-tick-time":"600000","max-world-size":"29999984","motd":"\"Katrina's Vanilla+\"","network-compression-threshold":"256","online-mode":"true","op-permission-level":"4","player-idle-timeout":"0","prevent-proxy-connections":"false","pvp":"true","rate-limit":"0","require-resource-pack":"false","resource-pack":"","resource-pack-prompt":"","resource-pack-sha1":"","server-ip":"","server-port":"25565","simulation-distance":"12","spawn-animals":"true","spawn-monsters":"true","spawn-npcs":"true","spawn-protection":"0","sync-chunk-writes":"true","text-filtering-config":"","use-native-transport":"true","view-distance":"12","white-list":"true"}} 
+2024-12-02 20:52:37 info: Retrieved settings:{"serverName":"SleepingServer, waiting for her knight...","serverPort":25565,"maxPlayers":5,"loginMessage":"...Waking server up, come back in a minute...","serverOnlineMode":true,"startMinecraft":true,"minecraftCommand":"java -jar minecraft_1-20-1_server.jar nogui","restartDelay":3000,"version":false,"useWhitelistFile":true,"useBlacklistFiles":true,"useNativeFiles":true} 
+2024-12-02 20:52:37 info: Retrieving whitelist entries from /home/superuser/minecraft/KatsVanillaPlus/whitelist.json 
+2024-12-02 20:52:37 info: Retrieved whitelist entries:[{"uuid":"b01d9165-974a-4296-8c08-1c8015e24150","name":"Mx_Kyoshi"}] 
+2024-12-02 20:52:37 info: Retrieving banned ips from /home/superuser/minecraft/KatsVanillaPlus/banned-ips.json 
+2024-12-02 20:52:37 info: Retrieved banned ips:[] 
+2024-12-02 20:52:37 info: Retrieving banned players from /home/superuser/minecraft/KatsVanillaPlus/banned-players.json 
+2024-12-02 20:52:37 info: Retrieved banned players:[] 
+2024-12-02 20:52:37 info: [Main] Waiting for 'quit' in CLI. 
+2024-12-02 20:52:37 info: [McJava] Waiting for a Prince to come. [25565] 
+2024-12-02 20:52:37 info: [McJava] Ready for battle 
+2024-12-02 20:55:50 info: A Prince has taken a quick peek. [1.20.2_::ffff:172.28.64.1] 
+2024-12-02 20:55:57 info: A Prince has taken a quick peek. [1.20.2_::ffff:172.28.64.1] 
+2024-12-02 20:55:58 info: Prince [Mx_Kyoshi.play_::ffff:172.28.64.1] has come, time to wake up. 
+2024-12-02 20:55:58 info: Sending best regards ...Waking server up, come back in a minute... 
+2024-12-02 20:55:58 info: [Mx_Kyoshi(b01d9165-974a-4296-8c08-1c8015e24150)] The prince is gone, for now 
+2024-12-02 20:55:58 info: [Container] Cleaning up the place. 
+2024-12-02 20:55:58 info: [McJava] Closing 
+2024-12-02 20:55:58 info: [McJava] Closed 
+2024-12-02 20:55:58 info: ----------- [v1.9.1] Starting Minecraft : java -jar minecraft_1-20-1_server.jar nogui -----------  
+2024-12-02 20:55:58 warn: [Main] Caught uncaughtException: "Command failed: java -jar minecraft_1-20-1_server.jar nogui" 
+2024-12-02 20:55:58 error: [Main] Something bad happened 
+2024-12-02 20:55:58 info: [Main] ... Restarting the server in (3 secs)... 
+2024-12-02 20:56:01 info: [Container] Cleaning up the place. 
+2024-12-02 20:56:01 info: [McJava] Closing 
+2024-12-02 20:56:01 info: Loaded server.properties: {"_encoding":"utf-8","_properties":{"allow-flight":"true","allow-nether":"true","broadcast-console-to-ops":"true","broadcast-rcon-to-ops":"true","difficulty":"normal","enable-command-block":"false","enable-jmx-monitoring":"false","enable-query":"true","enable-rcon":"true","enable-status":"true","enforce-secure-profile":"true","enforce-whitelist":"true","entity-broadcast-range-percentage":"100","force-gamemode":"false","function-permission-level":"2","gamemode":"survival","generate-structures":"true","generator-settings":"{}","hardcore":"false","hide-online-players":"false","initial-disabled-packs":"","initial-enabled-packs":"vanilla","level-name":"world","level-seed":"","level-type":"minecraft\\:normal","max-chained-neighbor-updates":"1000000","max-players":"5","max-tick-time":"600000","max-world-size":"29999984","motd":"\"Katrina's Vanilla+\"","network-compression-threshold":"256","online-mode":"true","op-permission-level":"4","player-idle-timeout":"0","prevent-proxy-connections":"false","pvp":"true","query.port":"25565","rate-limit":"0","rcon.password":"01189998819991197253","rcon.port":"25575","require-resource-pack":"false","resource-pack":"","resource-pack-prompt":"","resource-pack-sha1":"","server-ip":"","server-port":"25565","simulation-distance":"12","spawn-animals":"true","spawn-monsters":"true","spawn-npcs":"true","spawn-protection":"0","sync-chunk-writes":"true","text-filtering-config":"","use-native-transport":"true","view-distance":"12","white-list":"true"},"_propertiesExpanded":{"allow-flight":"true","allow-nether":"true","broadcast-console-to-ops":"true","broadcast-rcon-to-ops":"true","difficulty":"normal","enable-command-block":"false","enable-jmx-monitoring":"false","enable-query":"true","enable-rcon":"true","enable-status":"true","enforce-secure-profile":"true","enforce-whitelist":"true","entity-broadcast-range-percentage":"100","force-gamemode":"false","function-permission-level":"2","gamemode":"survival","generate-structures":"true","generator-settings":"{}","hardcore":"false","hide-online-players":"false","initial-disabled-packs":"","initial-enabled-packs":"vanilla","level-name":"world","level-seed":"","level-type":"minecraft\\:normal","max-chained-neighbor-updates":"1000000","max-players":"5","max-tick-time":"600000","max-world-size":"29999984","motd":"\"Katrina's Vanilla+\"","network-compression-threshold":"256","online-mode":"true","op-permission-level":"4","player-idle-timeout":"0","prevent-proxy-connections":"false","pvp":"true","rate-limit":"0","require-resource-pack":"false","resource-pack":"","resource-pack-prompt":"","resource-pack-sha1":"","server-ip":"","server-port":"25565","simulation-distance":"12","spawn-animals":"true","spawn-monsters":"true","spawn-npcs":"true","spawn-protection":"0","sync-chunk-writes":"true","text-filtering-config":"","use-native-transport":"true","view-distance":"12","white-list":"true"}} 
+2024-12-02 20:56:01 info: Retrieved settings:{"serverName":"SleepingServer, waiting for her knight...","serverPort":25565,"maxPlayers":5,"loginMessage":"...Waking server up, come back in a minute...","serverOnlineMode":true,"startMinecraft":true,"minecraftCommand":"java -jar minecraft_1-20-1_server.jar nogui","restartDelay":3000,"version":false,"useWhitelistFile":true,"useBlacklistFiles":true,"useNativeFiles":true} 
+2024-12-02 20:56:01 info: Retrieving whitelist entries from /home/superuser/minecraft/KatsVanillaPlus/whitelist.json 
+2024-12-02 20:56:01 info: Retrieved whitelist entries:[{"uuid":"b01d9165-974a-4296-8c08-1c8015e24150","name":"Mx_Kyoshi"}] 
+2024-12-02 20:56:01 info: Retrieving banned ips from /home/superuser/minecraft/KatsVanillaPlus/banned-ips.json 
+2024-12-02 20:56:01 info: Retrieved banned ips:[] 
+2024-12-02 20:56:01 info: Retrieving banned players from /home/superuser/minecraft/KatsVanillaPlus/banned-players.json 
+2024-12-02 20:56:01 info: Retrieved banned players:[] 
+2024-12-02 20:56:01 info: [McJava] Waiting for a Prince to come. [25565] 
+2024-12-02 20:56:01 info: [McJava] Ready for battle 
+2024-12-02 20:56:19 info: A Prince has taken a quick peek. [1.20.2_::ffff:172.28.64.1] 
+2024-12-02 20:56:20 info: Prince [Mx_Kyoshi.play_::ffff:172.28.64.1] has come, time to wake up. 
+2024-12-02 20:56:20 info: Sending best regards ...Waking server up, come back in a minute... 
+2024-12-02 20:56:20 info: [Mx_Kyoshi(b01d9165-974a-4296-8c08-1c8015e24150)] The prince is gone, for now 
+2024-12-02 20:56:20 info: [Container] Cleaning up the place. 
+2024-12-02 20:56:20 info: [McJava] Closing 
+2024-12-02 20:56:20 info: [McJava] Closed 
+2024-12-02 20:56:20 info: ----------- [v1.9.1] Starting Minecraft : java -jar minecraft_1-20-1_server.jar nogui -----------  
+2024-12-02 20:56:20 warn: [Main] Caught uncaughtException: "Command failed: java -jar minecraft_1-20-1_server.jar nogui" 
+2024-12-02 20:56:20 error: [Main] Something bad happened 
+2024-12-02 20:56:20 info: [Main] ... Restarting the server in (3 secs)... 
+2024-12-02 20:56:23 info: [Container] Cleaning up the place. 
+2024-12-02 20:56:23 info: [McJava] Closing 
+2024-12-02 20:56:23 info: Loaded server.properties: {"_encoding":"utf-8","_properties":{"allow-flight":"true","allow-nether":"true","broadcast-console-to-ops":"true","broadcast-rcon-to-ops":"true","difficulty":"normal","enable-command-block":"false","enable-jmx-monitoring":"false","enable-query":"true","enable-rcon":"true","enable-status":"true","enforce-secure-profile":"true","enforce-whitelist":"true","entity-broadcast-range-percentage":"100","force-gamemode":"false","function-permission-level":"2","gamemode":"survival","generate-structures":"true","generator-settings":"{}","hardcore":"false","hide-online-players":"false","initial-disabled-packs":"","initial-enabled-packs":"vanilla","level-name":"world","level-seed":"","level-type":"minecraft\\:normal","max-chained-neighbor-updates":"1000000","max-players":"5","max-tick-time":"600000","max-world-size":"29999984","motd":"\"Katrina's Vanilla+\"","network-compression-threshold":"256","online-mode":"true","op-permission-level":"4","player-idle-timeout":"0","prevent-proxy-connections":"false","pvp":"true","query.port":"25565","rate-limit":"0","rcon.password":"01189998819991197253","rcon.port":"25575","require-resource-pack":"false","resource-pack":"","resource-pack-prompt":"","resource-pack-sha1":"","server-ip":"","server-port":"25565","simulation-distance":"12","spawn-animals":"true","spawn-monsters":"true","spawn-npcs":"true","spawn-protection":"0","sync-chunk-writes":"true","text-filtering-config":"","use-native-transport":"true","view-distance":"12","white-list":"true"},"_propertiesExpanded":{"allow-flight":"true","allow-nether":"true","broadcast-console-to-ops":"true","broadcast-rcon-to-ops":"true","difficulty":"normal","enable-command-block":"false","enable-jmx-monitoring":"false","enable-query":"true","enable-rcon":"true","enable-status":"true","enforce-secure-profile":"true","enforce-whitelist":"true","entity-broadcast-range-percentage":"100","force-gamemode":"false","function-permission-level":"2","gamemode":"survival","generate-structures":"true","generator-settings":"{}","hardcore":"false","hide-online-players":"false","initial-disabled-packs":"","initial-enabled-packs":"vanilla","level-name":"world","level-seed":"","level-type":"minecraft\\:normal","max-chained-neighbor-updates":"1000000","max-players":"5","max-tick-time":"600000","max-world-size":"29999984","motd":"\"Katrina's Vanilla+\"","network-compression-threshold":"256","online-mode":"true","op-permission-level":"4","player-idle-timeout":"0","prevent-proxy-connections":"false","pvp":"true","rate-limit":"0","require-resource-pack":"false","resource-pack":"","resource-pack-prompt":"","resource-pack-sha1":"","server-ip":"","server-port":"25565","simulation-distance":"12","spawn-animals":"true","spawn-monsters":"true","spawn-npcs":"true","spawn-protection":"0","sync-chunk-writes":"true","text-filtering-config":"","use-native-transport":"true","view-distance":"12","white-list":"true"}} 
+2024-12-02 20:56:23 info: Retrieved settings:{"serverName":"SleepingServer, waiting for her knight...","serverPort":25565,"maxPlayers":5,"loginMessage":"...Waking server up, come back in a minute...","serverOnlineMode":true,"startMinecraft":true,"minecraftCommand":"java -jar minecraft_1-20-1_server.jar nogui","restartDelay":3000,"version":false,"useWhitelistFile":true,"useBlacklistFiles":true,"useNativeFiles":true} 
+2024-12-02 20:56:23 info: Retrieving whitelist entries from /home/superuser/minecraft/KatsVanillaPlus/whitelist.json 
+2024-12-02 20:56:23 info: Retrieved whitelist entries:[{"uuid":"b01d9165-974a-4296-8c08-1c8015e24150","name":"Mx_Kyoshi"}] 
+2024-12-02 20:56:23 info: Retrieving banned ips from /home/superuser/minecraft/KatsVanillaPlus/banned-ips.json 
+2024-12-02 20:56:23 info: Retrieved banned ips:[] 
+2024-12-02 20:56:23 info: Retrieving banned players from /home/superuser/minecraft/KatsVanillaPlus/banned-players.json 
+2024-12-02 20:56:23 info: Retrieved banned players:[] 
+2024-12-02 20:56:23 info: [McJava] Waiting for a Prince to come. [25565] 
+2024-12-02 20:56:23 info: [McJava] Ready for battle 
+2024-12-02 20:56:51 info: A Prince has taken a quick peek. [1.20.2_::ffff:172.28.64.1] 
+2024-12-02 20:56:52 info: Prince [Mx_Kyoshi.play_::ffff:172.28.64.1] has come, time to wake up. 
+2024-12-02 20:56:52 info: Sending best regards ...Waking server up, come back in a minute... 
+2024-12-02 20:56:52 info: [Mx_Kyoshi(b01d9165-974a-4296-8c08-1c8015e24150)] The prince is gone, for now 
+2024-12-02 20:56:52 info: [Container] Cleaning up the place. 
+2024-12-02 20:56:52 info: [McJava] Closing 
+2024-12-02 20:56:52 info: [McJava] Closed 
+2024-12-02 20:56:52 info: ----------- [v1.9.1] Starting Minecraft : java -jar minecraft_1-20-1_server.jar nogui -----------  
+2024-12-02 21:01:54 warn: [Main] Caught uncaughtException: "Command failed: java -jar minecraft_1-20-1_server.jar nogui" 
+2024-12-02 21:01:54 error: [Main] Something bad happened 
+2024-12-02 21:01:54 info: [Main] ... Restarting the server in (3 secs)... 
+2024-12-02 21:07:09 info: ................................ 
+2024-12-02 21:07:09 info: ... A new story begin v1.9.1 ... 
+2024-12-02 21:07:09 info: ................................ 
+2024-12-02 21:07:09 info: Loaded server.properties: {"_encoding":"utf-8","_properties":{"allow-flight":"true","allow-nether":"true","broadcast-console-to-ops":"true","broadcast-rcon-to-ops":"true","difficulty":"normal","enable-command-block":"false","enable-jmx-monitoring":"false","enable-query":"true","enable-rcon":"true","enable-status":"true","enforce-secure-profile":"true","enforce-whitelist":"true","entity-broadcast-range-percentage":"100","force-gamemode":"false","function-permission-level":"2","gamemode":"survival","generate-structures":"true","generator-settings":"{}","hardcore":"false","hide-online-players":"false","initial-disabled-packs":"","initial-enabled-packs":"vanilla","level-name":"world","level-seed":"","level-type":"minecraft\\:normal","max-chained-neighbor-updates":"1000000","max-players":"5","max-tick-time":"600000","max-world-size":"29999984","motd":"\"Katrina's Vanilla+\"","network-compression-threshold":"256","online-mode":"true","op-permission-level":"4","player-idle-timeout":"0","prevent-proxy-connections":"false","pvp":"true","query.port":"25565","rate-limit":"0","rcon.password":"01189998819991197253","rcon.port":"25575","require-resource-pack":"false","resource-pack":"","resource-pack-prompt":"","resource-pack-sha1":"","server-ip":"","server-port":"25565","simulation-distance":"12","spawn-animals":"true","spawn-monsters":"true","spawn-npcs":"true","spawn-protection":"0","sync-chunk-writes":"true","text-filtering-config":"","use-native-transport":"true","view-distance":"12","white-list":"true"},"_propertiesExpanded":{"allow-flight":"true","allow-nether":"true","broadcast-console-to-ops":"true","broadcast-rcon-to-ops":"true","difficulty":"normal","enable-command-block":"false","enable-jmx-monitoring":"false","enable-query":"true","enable-rcon":"true","enable-status":"true","enforce-secure-profile":"true","enforce-whitelist":"true","entity-broadcast-range-percentage":"100","force-gamemode":"false","function-permission-level":"2","gamemode":"survival","generate-structures":"true","generator-settings":"{}","hardcore":"false","hide-online-players":"false","initial-disabled-packs":"","initial-enabled-packs":"vanilla","level-name":"world","level-seed":"","level-type":"minecraft\\:normal","max-chained-neighbor-updates":"1000000","max-players":"5","max-tick-time":"600000","max-world-size":"29999984","motd":"\"Katrina's Vanilla+\"","network-compression-threshold":"256","online-mode":"true","op-permission-level":"4","player-idle-timeout":"0","prevent-proxy-connections":"false","pvp":"true","rate-limit":"0","require-resource-pack":"false","resource-pack":"","resource-pack-prompt":"","resource-pack-sha1":"","server-ip":"","server-port":"25565","simulation-distance":"12","spawn-animals":"true","spawn-monsters":"true","spawn-npcs":"true","spawn-protection":"0","sync-chunk-writes":"true","text-filtering-config":"","use-native-transport":"true","view-distance":"12","white-list":"true"}} 
+2024-12-02 21:07:09 info: Retrieved settings:{"serverName":"SleepingServer, waiting for her knight...","serverPort":25565,"maxPlayers":5,"loginMessage":"...Waking server up, come back in a minute...","serverOnlineMode":true,"startMinecraft":true,"minecraftCommand":"java -jar fabric-server-launch.jar nogui","restartDelay":3000,"version":false,"useWhitelistFile":true,"useBlacklistFiles":true,"useNativeFiles":true} 
+2024-12-02 21:07:09 info: Retrieving whitelist entries from /home/superuser/minecraft/KatsVanillaPlus/whitelist.json 
+2024-12-02 21:07:09 info: Retrieved whitelist entries:[{"uuid":"b01d9165-974a-4296-8c08-1c8015e24150","name":"Mx_Kyoshi"}] 
+2024-12-02 21:07:09 info: Retrieving banned ips from /home/superuser/minecraft/KatsVanillaPlus/banned-ips.json 
+2024-12-02 21:07:09 info: Retrieved banned ips:[] 
+2024-12-02 21:07:09 info: Retrieving banned players from /home/superuser/minecraft/KatsVanillaPlus/banned-players.json 
+2024-12-02 21:07:09 info: Retrieved banned players:[] 
+2024-12-02 21:07:09 info: [Main] Waiting for 'quit' in CLI. 
+2024-12-02 21:07:09 info: [McJava] Waiting for a Prince to come. [25565] 
+2024-12-02 21:07:09 info: [McJava] Ready for battle 
+2024-12-02 21:14:30 info: A Prince has taken a quick peek. [1.20.2_::ffff:172.28.64.1] 
+2024-12-02 21:14:31 info: A Prince has taken a quick peek. [1.20.2_::ffff:172.28.64.1] 
+2024-12-02 21:14:32 info: Prince [Mx_Kyoshi.play_::ffff:172.28.64.1] has come, time to wake up. 
+2024-12-02 21:14:32 info: Sending best regards ...Waking server up, come back in a minute... 
+2024-12-02 21:14:32 info: [Mx_Kyoshi(b01d9165-974a-4296-8c08-1c8015e24150)] The prince is gone, for now 
+2024-12-02 21:14:32 info: [Container] Cleaning up the place. 
+2024-12-02 21:14:32 info: [McJava] Closing 
+2024-12-02 21:14:32 info: [McJava] Closed 
+2024-12-02 21:14:32 info: ----------- [v1.9.1] Starting Minecraft : java -jar fabric-server-launch.jar nogui -----------  
+2024-12-02 21:30:43 info: ----------- [v1.9.1] Minecraft stopped ----------- 
+2024-12-02 21:30:43 info: [Container] ...Time to kill me if you want (3 secs)... 
+2024-12-02 21:30:46 info: [Main] SIGINT signal received. 

@@ -1,0 +1,12 @@
+serverName: SleepingServer, waiting for her knight...
+serverPort: 25565
+maxPlayers: 5
+loginMessage: ...Waking server up, come back in a minute...
+serverOnlineMode: true
+startMinecraft: true
+minecraftCommand: java -jar fabric-server-launch.jar nogui
+restartDelay: 3000
+version: false
+useWhitelistFile: true
+useBlacklistFiles: false
+useNativeFiles: true
